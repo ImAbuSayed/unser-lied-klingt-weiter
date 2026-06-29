@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unser-lied-klingt-weiter/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Unser Lied klingt weiter](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unser-lied-klingt-weiter/) |
+| **Get License** | [Commercial Licensing for Unser Lied klingt weiter](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unser-lied-klingt-weiter/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Stadtlichter leuchten, doch ich seh' nur dich, Babe
+> Der Bass zieht uns tiefer, verlier'n uns im Licht, Babe
+> Wir lassen jetzt los, driften durch die Nacht
+> Unser Lied klingt weiter, hat uns zusammengebracht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
