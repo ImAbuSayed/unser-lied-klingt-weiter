@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unser-lied-klingt-weiter/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Unser Lied klingt weiter](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unser-lied-klingt-weiter/) |
+| **Get License** | [Obtain a Music License for Unser Lied klingt weiter](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unser-lied-klingt-weiter/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `09b783d9b8ddae7c3ff6ac1a9d203d7f9c458a304aba88c7b58027c33ee3494c` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
